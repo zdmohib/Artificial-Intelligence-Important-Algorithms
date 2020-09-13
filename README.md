@@ -11,7 +11,7 @@ there are some important AI algorithm's source code using python
 4.[Map Coloring Using Back track Algorithm](https://github.com/zdmohib/Artificial-Intelligence-Important-Algorithms/blob/master/Map%20Cologing%20Backtrack%20Algo.py)
 
 
-Gaming algorithms:
+# Gaming algorithms:
 
 1.[Min Max](https://github.com/zdmohib/Artificial-Intelligence-Important-Algorithms/blob/master/Min%20Max%20Gaming%20%20Algo.py)
 
